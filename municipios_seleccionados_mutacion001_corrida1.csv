@@ -1,0 +1,199 @@
+estado,municipio,zona_sismica_CFE,grado_peligro_inundacion_CENAPRED,grado_vulnerabilidad_social_CENAPRED,tiene_ARM,sismo,inundacion,vulnerabilidad,sin_ARM,beneficio,costo
+Colima,Colima,D,Medio,Bajo,Sí,4,3,2,0,16.5,50000
+Colima,Cuauhtémoc,D,Bajo,Bajo,Sí,4,2,2,0,15.0,50000
+Colima,Ixtlahuacán,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Colima,Manzanillo,D,Muy alto,Bajo,Sí,4,5,2,0,19.5,50000
+Colima,Minatitlán,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Colima,Villa de Álvarez,D,Bajo,Bajo,Sí,4,2,2,0,15.0,50000
+Colima,Armería,D,Muy alto,Medio,Sí,4,5,3,0,21.5,50000
+Nayarit,Acaponeta,C,Alto,Alto,Sí,3,4,4,0,20.0,50000
+Nayarit,Ahuacatlán,B,Bajo,Medio,No,2,2,3,1,16.0,50000
+Nayarit,Amatlán de Cañas,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Nayarit,Compostela,D,Alto,Medio,Sí,4,4,3,0,20.0,50000
+Nayarit,El Nayar,B,Bajo,Muy alto,No,2,2,5,1,20.0,50000
+Nayarit,Huajicori,B,Medio,Muy alto,No,2,3,5,1,21.5,50000
+Nayarit,Jala,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Nayarit,La Yesca,B,Bajo,Muy alto,No,2,2,5,1,20.0,50000
+Nayarit,Rosamorada,C,Alto,Alto,Sí,3,4,4,0,20.0,50000
+Nayarit,Ruíz,C,Medio,Alto,No,3,3,4,1,21.5,50000
+Nayarit,San Pedro Lagunillas,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Nayarit,Santiago Ixcuintla,C,Muy alto,Medio,Sí,3,5,3,0,19.5,50000
+Nayarit,Tecuala,C,Alto,Alto,Sí,3,4,4,0,20.0,50000
+Nayarit,Tepic,C,Medio,Bajo,Sí,3,3,2,0,14.5,50000
+Nayarit,Tuxpan,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Nayarit,Xalisco,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
+Nayarit,Bahía de Banderas,D,Alto,Bajo,Sí,4,4,2,0,18.0,50000
+Jalisco,Acatic,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Acatlán de Juárez,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Jalisco,Ahualulco de Mercado,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Amacueca,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Jalisco,Amatitán,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Arandas,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,El Arenal,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Atemajac de Brizuela,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Atengo,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Jalisco,Atenguillo,C,Bajo,Alto,No,3,2,4,1,20.0,50000
+Jalisco,Atotonilco el Alto,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Atoyac,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Jalisco,Autlán de Navarro,D,Alto,Medio,Sí,4,4,3,0,20.0,50000
+Jalisco,Ayotlán,B,Medio,Medio,No,2,3,3,1,17.5,50000
+Jalisco,Ayutla,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Jalisco,Bolaños,B,Bajo,Alto,No,2,2,4,1,18.0,50000
+Jalisco,Cabo Corrientes,D,Muy alto,Alto,No,4,5,4,1,26.5,50000
+Jalisco,Casimiro Castillo,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Jalisco,Cihuatlán,D,Muy alto,Medio,Sí,4,5,3,0,21.5,50000
+Jalisco,Cocula,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Jalisco,Concepción de Buenos Aires,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Cuautitlán de García Barragán,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Jalisco,Cuautla,B,Bajo,Medio,No,2,2,3,1,16.0,50000
+Jalisco,Cuquío,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Chapala,C,Medio,Bajo,Sí,3,3,2,0,14.5,50000
+Jalisco,Chimaltitán,B,Bajo,Alto,No,2,2,4,1,18.0,50000
+Jalisco,Chiquilistlán,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Degollado,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Ejutla,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Encarnación de Díaz,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,El Grullo,D,Medio,Medio,No,4,3,3,1,21.5,50000
+Jalisco,Guadalajara,C,Bajo,Muy bajo,Sí,3,2,1,0,11.0,50000
+Jalisco,Huejúcar,B,Bajo,Medio,No,2,2,3,1,16.0,50000
+Jalisco,Huejuquilla el Alto,B,Bajo,Alto,No,2,2,4,1,18.0,50000
+Jalisco,La Huerta,D,Muy alto,Medio,No,4,5,3,1,24.5,50000
+Jalisco,Ixtlahuacán de los Membrillos,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Ixtlahuacán del Río,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Jalostotitlán,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Jilotlán de los Dolores,C,Medio,Alto,No,3,3,4,1,21.5,50000
+Jalisco,Juanacatlán,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Lagos de Moreno,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,El Limón,D,Medio,Medio,No,4,3,3,1,21.5,50000
+Jalisco,Magdalena,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Santa María de los Ángeles,B,Bajo,Medio,No,2,2,3,1,16.0,50000
+Jalisco,Mascota,D,Medio,Medio,No,4,3,3,1,21.5,50000
+Jalisco,Mazamitla,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Mexticacán,B,Bajo,Medio,No,2,2,3,1,16.0,50000
+Jalisco,Mezquitic,B,Bajo,Muy alto,No,2,2,5,1,20.0,50000
+Jalisco,Mixtlán,D,Bajo,Alto,No,4,2,4,1,22.0,50000
+Jalisco,Ocotlán,B,Alto,Bajo,Sí,2,4,2,0,14.0,50000
+Jalisco,Pihuamo,C,Medio,Alto,No,3,3,4,1,21.5,50000
+Jalisco,Poncitlán,C,Alto,Bajo,No,3,4,2,1,19.0,50000
+Jalisco,Puerto Vallarta,D,Alto,Bajo,Sí,4,4,2,0,18.0,50000
+Jalisco,Villa Purificación,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Jalisco,San Diego de Alejandría,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,San Juan de los Lagos,B,Bajo,Bajo,Sí,2,2,2,0,11.0,50000
+Jalisco,San Julián,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,San Marcos,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,San Martín Hidalgo,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,San Miguel el Alto,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Gómez Farías,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,San Sebastián del Oeste,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Jalisco,La Manzanilla de la Paz,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Sayula,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Tala,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Talpa de Allende,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Jalisco,Tamazula de Gordiano,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Jalisco,Tapalpa,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Tecalitlán,C,Medio,Alto,No,3,3,4,1,21.5,50000
+Jalisco,Tecolotlán,D,Medio,Medio,No,4,3,3,1,21.5,50000
+Jalisco,Techaluta de Montenegro,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Tenamaxtlán,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Teocaltiche,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Teocuitatlán de Corona,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Tequila,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Tizapán el Alto,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Tlajomulco de Zúñiga,C,Medio,Bajo,Sí,3,3,2,0,14.5,50000
+Jalisco,Tolimán,C,Medio,Alto,No,3,3,4,1,21.5,50000
+Jalisco,Tomatlán,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Jalisco,Tonaya,D,Bajo,Medio,No,4,2,3,1,20.0,50000
+Jalisco,Totatiche,B,Bajo,Alto,No,2,2,4,1,18.0,50000
+Jalisco,Tototlán,B,Medio,Bajo,No,2,3,2,1,15.5,50000
+Jalisco,Tuxcacuesco,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Jalisco,Tuxcueca,C,Alto,Bajo,No,3,4,2,1,19.0,50000
+Jalisco,Tuxpan,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,Unión de San Antonio,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Unión de Tula,D,Medio,Medio,No,4,3,3,1,21.5,50000
+Jalisco,Valle de Guadalupe,B,Bajo,Bajo,No,2,2,2,1,14.0,50000
+Jalisco,Valle de Juárez,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Jalisco,San Gabriel,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Jalisco,Villa Corona,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Cañadas de Obregón,B,Bajo,Medio,No,2,2,3,1,16.0,50000
+Jalisco,Zapopan,C,Bajo,Muy bajo,Sí,3,2,1,0,11.0,50000
+Jalisco,Zapotiltic,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Jalisco,Zapotlán del Rey,B,Alto,Bajo,No,2,4,2,1,17.0,50000
+Michoacán,Acuitzio,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Aguililla,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Álvaro Obregón,C,Alto,Alto,No,3,4,4,1,23.0,50000
+Michoacán,Angamacutiro,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Angangueo,C,Bajo,Alto,No,3,2,4,1,20.0,50000
+Michoacán,Aquila,D,Muy alto,Muy alto,No,4,5,5,1,28.5,50000
+Michoacán,Arteaga,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Michoacán,Briseñas,C,Alto,Medio,No,3,4,3,1,21.0,50000
+Michoacán,Contepec,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Cotija,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Cuitzeo,C,Medio,Bajo,No,3,3,2,1,17.5,50000
+Michoacán,Charapan,C,Bajo,Alto,No,3,2,4,1,20.0,50000
+Michoacán,Chavinda,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Cherán,C,Bajo,Alto,No,3,2,4,1,20.0,50000
+Michoacán,Chinicuila,D,Medio,Muy alto,No,4,3,5,1,25.5,50000
+Michoacán,Churumuco,D,Alto,Muy alto,No,4,4,5,1,27.0,50000
+Michoacán,Ecuandureo,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Gabriel Zamora,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Michoacán,Hidalgo,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Huaniqueo,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Huetamo,D,Alto,Alto,Sí,4,4,4,0,22.0,50000
+Michoacán,Huiramba,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Indaparapeo,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Jacona,C,Medio,Bajo,Sí,3,3,2,0,14.5,50000
+Michoacán,Jiquilpan,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
+Michoacán,Juárez,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Jungapeo,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Lagunillas,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Lázaro Cárdenas,D,Muy alto,Medio,Sí,4,5,3,0,21.5,50000
+Michoacán,Los Reyes,C,Bajo,Medio,Sí,3,2,3,0,15.0,50000
+Michoacán,Maravatío,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
+Michoacán,Marcos Castellanos,C,Alto,Bajo,No,3,4,2,1,19.0,50000
+Michoacán,Morelia,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
+Michoacán,Morelos,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Múgica,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Michoacán,Nuevo Urecho,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Numarán,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Ocampo,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Pajacuarán,C,Alto,Medio,No,3,4,3,1,21.0,50000
+Michoacán,Panindícuaro,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Parácuaro,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Paracho,C,Bajo,Alto,No,3,2,4,1,20.0,50000
+Michoacán,Pátzcuaro,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
+Michoacán,Penjamillo,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Peribán,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,La Piedad,C,Alto,Bajo,Sí,3,4,2,0,16.0,50000
+Michoacán,Purépero,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Puruarán,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Queréndaro,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Quiroga,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,San Lucas,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Senguio,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Susupuato,C,Bajo,Alto,No,3,2,4,1,20.0,50000
+Michoacán,Tacámbaro,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tancítaro,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Tangamandapio,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tangancícuaro,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tanhuato,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Tarímbaro,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Tingambato,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tingüindín,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tiquicheo de Nicolás Romero,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Michoacán,Tlalpujahua,C,Bajo,Medio,Sí,3,2,3,0,15.0,50000
+Michoacán,Tlazazalca,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tumbiscatío,D,Medio,Muy alto,No,4,3,5,1,25.5,50000
+Michoacán,Tuxpan,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tuzantla,D,Alto,Alto,No,4,4,4,1,25.0,50000
+Michoacán,Tzintzuntzan,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Tzitzio,D,Medio,Alto,No,4,3,4,1,23.5,50000
+Michoacán,Uruapan,D,Medio,Bajo,Sí,4,3,2,0,16.5,50000
+Michoacán,Venustiano Carranza,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Vista Hermosa,C,Medio,Medio,No,3,3,3,1,19.5,50000
+Michoacán,Yurécuaro,C,Alto,Bajo,No,3,4,2,1,19.0,50000
+Michoacán,Zacapu,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
+Michoacán,Zamora,C,Medio,Bajo,Sí,3,3,2,0,14.5,50000
+Michoacán,Zináparo,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Zinapécuaro,C,Bajo,Bajo,No,3,2,2,1,16.0,50000
+Michoacán,Ziracuaretiro,C,Bajo,Medio,No,3,2,3,1,18.0,50000
+Michoacán,Zitácuaro,C,Bajo,Bajo,Sí,3,2,2,0,13.0,50000
